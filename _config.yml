@@ -1,0 +1,24 @@
+# Details
+title:       Gert CLS
+description: Website description that appears in the side bar...
+url:         http://gertclaus.github.io
+baseurl:
+
+#Author
+author:
+  name:      'Gert Claus'
+
+paginate:    3
+paginate_path: "/:num/"
+
+# Permalinks
+permalink:   /:categories/:title/
+
+# Build settings
+# destination: dest
+# source:      src # Removed because Github Pages does not allow different source directory
+markdown:    kramdown
+highlighter: rouge
+
+# Gems
+gems: [jekyll-paginate]

@@ -1,0 +1,14 @@
+John Doe:
+  name: John Doe
+  picture: /img/authors/johndoe.jpg
+  twitter: janedoe
+
+Jane Doe:
+  name: Jane Doe
+  picture: /img/authors/janedoe.jpg
+  twitter: janedoe
+
+Gert Claus:
+  name: Gert Claus
+  picture: /img/authors/johndoe.jpg
+  twitter: gertcls
