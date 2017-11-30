@@ -7,7 +7,7 @@ tags        :
 - Instagram
 description : "Eindelijk regrammen vanuit de app!"
 categories  :
-- Social Media
+- apps
 featureimg : https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/regram-button.png
 ---
 
