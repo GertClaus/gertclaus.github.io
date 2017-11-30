@@ -8,6 +8,7 @@ tags        :
 description : "Er komt een Regramfunctie voor Instagram (en GIFs voor Stories)!"
 categories  :
 - Social Media
+image : https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/regram-button.png
 ---
 Instagram test regelmatig aantal nieuwe features uit bij verschillende accounts. Dit doen ze Facebook-gewijs: een beperkt aantal gebruikers ziet een nieuwe functie opduiken in zijn app en kan ze gedurende een paar dagen uittesten. Nadien verdwijnt de functie opnieuw en hopelijk verschijnt ze dan wat later in een update van de app.
 
