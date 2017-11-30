@@ -3,6 +3,7 @@ layout      : post
 title       : "Nieuwe Instagramfeatures"
 author      : Gert Claus
 date        : 2017-11-30
+featureimg  : https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/regram-button.png
 tags        :
 - instagram
 description : "Eindelijk regrammen vanuit de app en GIFjes in Stories"
@@ -17,8 +18,6 @@ Instagram test regelmatig aantal nieuwe features uit bij verschillende accounts.
 Eén van de nieuwe features is een native Regramfunctie. Momenteel moeten Instagrammers, die een foto van iemand anders willen delen, dit via een app à la Regram of Repost doen. 
 
 Deze functie zal vooral wat merken inspireren om foto's van fans te delen zonder beroep te moeten doen op een andere app. Instagram/Facebook kon niet langer blind blijven voor de roep om deze functialiteit.
-
-![Instagram Regram screenshot by The Next Web](https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/regram-button.png)
 
     
 # GIF Galore
