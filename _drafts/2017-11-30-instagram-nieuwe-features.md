@@ -5,7 +5,7 @@ author      : Gert Claus
 date        : 2017-11-30
 tags        :
 - random
-description : "Er komt een Regram-functie voor Instagram (en GIFs voor Stories)!
+description : "Er komt een Regram-functie voor Instagram (en GIFs voor Stories)!"
 categories  :
 - misc
 ---
@@ -20,7 +20,7 @@ Eén van de nieuwe features is een native Regramfunctie. Momenteel moeten Instag
 
 Deze functie zal vooral wat merken inspireren om foto's van fans te delen zonder beroep te moeten doen op een andere app. Instagram/Facebook kon niet langer blind blijven voor de roep om deze functialiteit.
 
-    ![Instagram Regram] (https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/regram-button.png "The Next Web Instagram screenshot")
+    ! [Instagram Regram] ('https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/regram-button.png')
 
     
 # GIF Galore
