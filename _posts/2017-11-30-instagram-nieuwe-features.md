@@ -5,22 +5,10 @@ author      : Gert Claus
 date        : 2017-11-30
 featureimg : https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/regram-button.png
 tags        :
-- random
-description : "Die eerste blogpost die niets zegt maar er toch moet zijn"
+- instagram
+description : "Eindelijk regrammen vanuit de app en GIFjes in Stories"
 categories  :
 - misc
----
----
-layout      : post
-title       : Nieuwe Instagramfeatures
-author      : Gert Claus
-date        : 2017-11-30
-tags        :
-- Instagram
-description : "Eindelijk regrammen vanuit de app!"
-categories  :
-- apps
-featureimg : https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/regram-button.png
 ---
 
 Instagram test regelmatig aantal nieuwe features uit bij verschillende accounts. Dit doen ze Facebook-gewijs: een beperkt aantal gebruikers ziet een nieuwe functie opduiken in zijn app en kan ze gedurende een paar dagen uittesten. Nadien verdwijnt de functie opnieuw en hopelijk verschijnt ze dan wat later in een update van de app.
