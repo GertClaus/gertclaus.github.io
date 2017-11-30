@@ -1,11 +1,11 @@
 ---
 layout      : post
-title       : "Nieuwe Instagramfeatures"
+title       : Nieuwe Instagramfeatures
 author      : Gert Claus
 date        : 2017-11-30
 tags        :
 - Instagram
-description : "Eindelijk regrammen vanuit de app (en GIFs voor Stories)!"
+description : "Eindelijk regrammen vanuit de app!"
 categories  :
 - Social Media
 featureimg : https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/regram-button.png
