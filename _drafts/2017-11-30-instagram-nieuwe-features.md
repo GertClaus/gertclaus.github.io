@@ -9,7 +9,9 @@ description : "Er komt een "regram"-functie voor Instagram (en GIFs voor Stories
 categories  :
 - misc
 ---
-Instagram test regelmatig aantal nieuwe features uit bij verschillende accounts. Dit doen ze Facebook-gewijs: een beperkt aantal gebruikers ziet een nieuwe functie opduiken in zijn app en kan ze gedurende een paar dagen uittesten. Nadien verdwijnt de functie opnieuw en hopelijk verschijnt ze dan wat later in een update van de app.
+Instagram test regelmatig aantal nieuwe features uit bij verschillende accounts. Dit doen ze Facebook-gewijs: een beperkt aantal gebruikers ziet een nieuwe functie opduiken in de app en kan ze gedurende een paar dagen uittesten. Nadien verdwijnt de functie en hopelijk verschijnt ze dan wat later in een update van de app.
+
+Bij The Next Web kunnen ze de nieuwe speeltjes uittesten...
 
 # Native Regramknop
 
