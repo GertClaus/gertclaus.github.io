@@ -4,10 +4,10 @@ title       : "Nieuwe Instagramfeatures"
 author      : Gert Claus
 date        : 2017-11-30
 tags        :
-- random
-description : "Er komt een "regram"-functie voor Instagram (en GIFs voor Stories)!
+- Instagram
+description : "Er komt een Regramfunctie voor Instagram (en GIFs voor Stories)!"
 categories  :
-- misc
+- Social Media
 ---
 Instagram test regelmatig aantal nieuwe features uit bij verschillende accounts. Dit doen ze Facebook-gewijs: een beperkt aantal gebruikers ziet een nieuwe functie opduiken in zijn app en kan ze gedurende een paar dagen uittesten. Nadien verdwijnt de functie opnieuw en hopelijk verschijnt ze dan wat later in een update van de app.
 
