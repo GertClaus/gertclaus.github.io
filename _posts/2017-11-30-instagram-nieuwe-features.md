@@ -3,7 +3,7 @@ layout      : post
 title       : "Nieuwe Instagramfeatures"
 author      : Gert Claus
 date        : 2017-11-30
-featureimg  : https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/regram-button.png
+featureimg : https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/regram-button.png
 tags        :
 - instagram
 description : "Eindelijk regrammen vanuit de app en GIFjes in Stories"
