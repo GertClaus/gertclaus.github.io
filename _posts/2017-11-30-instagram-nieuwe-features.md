@@ -5,7 +5,7 @@ author      : Gert Claus
 date        : 2017-11-30
 tags        :
 - Instagram
-description : "Er komt een Regramfunctie voor Instagram (en GIFs voor Stories)!"
+description : "Eindelijk regrammen vanuit de app (en GIFs voor Stories)!"
 categories  :
 - Social Media
 image : https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/regram-button.png
