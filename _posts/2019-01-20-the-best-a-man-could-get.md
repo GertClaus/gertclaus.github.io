@@ -27,4 +27,3 @@ Het businessmodel van Gillette is sinds 1903 gebaseerd op wegwerpen. Mannen koch
 
 P.S. De ratrace tussen Gillette en Wilkinson om zoveel mogelijk scheermesjes in een cartridge proberen te proppen is eigenlijk je reinstje B.S. Meer mesjes, glijstrips, roterende balhoofden en andere snufjes zijn overbodig. Ik ben er heilig van overtuigd dat je met een open scheermes of safety razor een even glad resultaat behaalt. De techniek groeit als het ware in je hand en traditionele scheerzeep ruikt stukken lekkerder dan de chemische rommel uit spuitbussen.
 
-# Over spuitbussen en andere toxische stoffen
